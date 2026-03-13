@@ -7,6 +7,7 @@
 - [ ] Matthias Frenzl
 
 ## Quicklinks
+- [ ] [Project Plan](https://docs.google.com/document/d/1Qd6x3QnynfM_1ivviZiPSb2Q8P5vjCxEwpS8M1hrX9Q/edit?usp=share_link)
 - [ ] [AD2 - Final Report Group 1 (Overleaf)](https://www.overleaf.com/project/69b1be71f6877b9e88aff68b)
 - [ ] [Google Drive](https://drive.google.com/drive/folders/13KR6O2V4UuHsem6PENUwRDxKRzNBrr3V)
 - [ ] [TUWEL](https://tuwel.tuwien.ac.at/course/view.php?id=80421)
